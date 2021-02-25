@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fFQvjT+uTl7y/o37r63IYGPhC5j0ubEu7Fz1GC07bvZ04zso4go0M2BZTzOw5RbaLxKCKhpOrponpPluJa7GKA==",
+  "dgSpecHash": "iVCw9tUQh9egaoxCM0SIlgR169iRGrxpMJ06rehCSKuVe3NFf/RSTTgOUAJBf1rGb28ZTdrfGII2agcCduE+kQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\moore\\repos\\KaneyAndRon\\KaneyAndRon\\KaneyAndRon.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\moore\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
